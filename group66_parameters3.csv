@@ -1,0 +1,6 @@
+"name,Support Vector Machine Classifier"
+"library,sklearn"
+"test_size,0.25"
+"C,1"
+"gamma,0.01"
+"kernel,linear"
